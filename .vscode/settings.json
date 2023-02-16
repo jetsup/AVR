@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.dot": "dot",
+        "io.h": "c"
+    }
+}
